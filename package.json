@@ -1,0 +1,22 @@
+{
+  "name": "ircchew",
+  "version": "alpha 0.0.1",
+  "description": "A Minecraft server tracker that lets you focus on the basics.",
+  "main": "app.js",
+  "dependencies": {
+    "irc": "0.5.2"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Chewsterchew/IRCChew.git"
+  },
+  "keywords": [
+    "ircchew"
+  ],
+  "author": "Chew <chew@chew.pw>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Chewsterchew/IRCChew/issues"
+  },
+  "homepage": "https://github.com/Chewsterchew/IRCChew#README",
+}
