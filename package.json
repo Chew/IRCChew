@@ -1,6 +1,6 @@
 {
   "name": "ircchew",
-  "version": "alpha 0.0.1",
+  "version": "0.0.1",
   "description": "A Minecraft server tracker that lets you focus on the basics.",
   "main": "app.js",
   "dependencies": {
